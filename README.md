@@ -1,4 +1,3 @@
-``markdown
 # Wind Power Analytics - Microsoft Fabric Pipeline
 
 Pipeline de données end-to-end sur Microsoft Fabric pour l'analyse de la production d'énergie éolienne.
@@ -35,4 +34,3 @@ GitHub (CSV) → Bronze → Silver → Gold → Semantic Model → Power BI
 
 *Projet réalisé dans le cadre d'une formation sur Microsoft Fabric*
 *Date de début : 16 novembre 2025*
-```
