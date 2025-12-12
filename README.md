@@ -49,7 +49,7 @@ Technologies : Microsoft Fabric, Delta Lake, PySpark, SQL, Power BI, DAX.
 
 ## Statut & jalons
 - Statut actuel : 🔨 en cours de développement.
-- Prochaines étapes possibles : automatiser le déclenchement quotidien, ajouter la documentation des jeux de données, intégrer des captures d'écran des rapports.
+- Prochaines étapes possibles : automatiser le déclenchement quotidien, améliorer les rapports.
 
 ---
 
